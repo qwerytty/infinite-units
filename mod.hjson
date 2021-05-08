@@ -1,0 +1,6 @@
+name: "infinite-units"
+displayName: "Infinite units"
+author: "qweryt"
+description: "makes the unitcap 99999. fore testing porposes"
+version: "0.1"
+minGameVersion: "120"
